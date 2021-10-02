@@ -3,7 +3,7 @@
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Streamlit___ on ___Heroku___ platform.
 
-• This Web app contains two sections named Explore and Predict.
+• This Web app contains two __sections__ named __Explore__ and __Predict__.
 ## Explore page contains the stats of developers based on country,experience etc.
 
 ## Predict Page has several input parameters(like Country,Education Level,Years of Experience) to estimate the developer's salary.
